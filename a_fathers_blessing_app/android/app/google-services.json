@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584220329874",
+    "project_id": "truth78-fathers-blessing-app",
+    "storage_bucket": "truth78-fathers-blessing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584220329874:android:bfc9fc3de0716eefeaa34b",
+        "android_client_info": {
+          "package_name": "com.a_fathers_blessing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584220329874-ao3pjq7an5den625h80tj93uc2eirmu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg37E_yH4puw8QwEtREmr8kGQm3J6AsvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584220329874-ao3pjq7an5den625h80tj93uc2eirmu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
